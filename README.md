@@ -1,0 +1,14 @@
+Daily Steps vs Resting Heart Rate Analysis
+
+Project Description:
+This project analyzes the relationship between average daily steps and resting heart rate for 14 individuals in a fitness dataset using Python.
+It visualizes the correlation between the 2 variables with a scatterplot.
+
+Libraries Used:
+1.Pandas for data manipulation and analysis
+2.Matplotlib for creating the scatterplot and visualizing data
+
+Results:
+The scatterplot shows a weak negative correlation between average daily steps and resting heart rate. 
+In general, people who take more steps per day tend to have slighly lower resting heart rates.
+However, there is a considerable amount of variability as well as outliers, suggesting that age or fitness level may influence resting heart rate.
