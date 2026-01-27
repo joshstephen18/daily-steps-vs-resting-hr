@@ -1,3 +1,5 @@
+https://github.com/joshstephen18/daily-steps-vs-resting-hr/blob/main/plots/steps_vs_resting_hr.png
+
 Daily Steps vs Resting Heart Rate Analysis
 
 Project Description:
