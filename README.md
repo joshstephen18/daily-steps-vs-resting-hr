@@ -14,3 +14,8 @@ Results:
 The scatterplot shows a weak negative correlation between average daily steps and resting heart rate. 
 In general, people who take more steps per day tend to have slighly lower resting heart rates.
 However, there is a considerable amount of variability as well as outliers, suggesting that factors such as age or fitness level may influence resting heart rate.
+
+Project Limitations:
+1.
+2.
+3.
