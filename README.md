@@ -3,7 +3,7 @@
 Daily Steps vs Resting Heart Rate Analysis
 
 Project Description:
-This project analyzes the relationship between average daily steps and resting heart rate for 14 individuals in a Kaggle fitness dataset using Python.
+This project analyzes the relationship between average daily steps and resting heart rate for 14 individuals in a Fitbit dataset on Kaggle using Python.
 It visualizes the correlation between the 2 variables with a scatterplot.
 
 Libraries Used:
