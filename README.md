@@ -19,6 +19,7 @@ Project Limitations:
 
 
 Libraries Used:
+
 1.Pandas for data manipulation and analysis
 
 2.Matplotlib for creating the scatterplot and visualizing data
