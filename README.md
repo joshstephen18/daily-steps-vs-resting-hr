@@ -6,7 +6,7 @@ Project Description:
 This project analyzes the relationship between average daily steps and resting heart rate for 14 individuals in a Fitbit dataset on Kaggle using Python.
 It visualizes the correlation between the 2 variables with a scatterplot.
 
-Methods: The program converts raw timestamps to datetime objects and extracts the minimum daily heart rate as a proxy for resting heart rate. These values are averaged per user and merged with average daily step counts via unique User IDs. A Pearson correlation coefficient is calculated, and the trend between the two variables can be visualized with a scatter plot. 
+Methods: The program first loads and reads uploaded CSV files. It then converts raw timestamps to datetime objects and extracts the minimum daily heart rate as a proxy for resting heart rate. These values are averaged per user and merged with average daily step counts via unique User IDs. A Pearson correlation coefficient is calculated, and the trend between the two variables can be visualized with a scatter plot. 
 
 
 Results:
