@@ -1,7 +1,5 @@
 ![scatterplot](https://github.com/joshstephen18/daily-steps-vs-resting-hr/blob/main/plots/steps_vs_resting_hr.png)
 
-# 🏃‍♂️ StepSync: Daily Activity vs. Resting Heart Rate
-
 # Daily Steps vs Resting Heart Rate Analysis
 
 Project Description:
