@@ -1,6 +1,6 @@
 ![scatterplot](https://github.com/joshstephen18/daily-steps-vs-resting-hr/blob/main/plots/steps_vs_resting_hr.png)
 
-# Daily Steps vs Resting Heart Rate Analysis
+# 🏃‍♂️ Daily Steps vs Resting Heart Rate Analysis
 
 Project Description:
 This project analyzes the relationship between average daily steps and resting heart rate for 14 individuals in a Fitbit dataset on Kaggle using Python.
