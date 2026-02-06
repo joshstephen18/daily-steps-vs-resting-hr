@@ -8,6 +8,15 @@ It visualizes the correlation between the 2 variables with a scatterplot.
 
 Methods: The program first loads and reads uploaded CSV files. It then converts raw timestamps to datetime objects and extracts the minimum daily heart rate as a proxy for resting heart rate. These values are averaged per user and merged with average daily step counts via unique User IDs. A Pearson correlation coefficient is calculated, and the trend between the two variables can be visualized with a scatter plot. 
 
+## 🛠️ Methods: 
+Data Processing: Loaded CSV files and converted timestamps to datetime objects.
+
+Proxy Calculation: Extracted the minimum daily heart rate as a proxy for resting HR.
+
+Aggregation: Values were averaged per user and merged with daily step counts via unique User IDs.
+
+Statistics: Calculated a Pearson correlation coefficient ($r$) to quantify the relationship.
+
 
 Results:
 The scatterplot shows a weak negative correlation between average daily steps and resting heart rate, and it aligns with the resulting Pearson correlation coefficient of -0.23. 
