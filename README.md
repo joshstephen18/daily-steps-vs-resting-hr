@@ -2,7 +2,7 @@
 
 # 🏃‍♂️ StepSync: Daily Activity vs. Resting Heart Rate
 
-Daily Steps vs Resting Heart Rate Analysis
+# Daily Steps vs Resting Heart Rate Analysis
 
 Project Description:
 This project analyzes the relationship between average daily steps and resting heart rate for 14 individuals in a Fitbit dataset on Kaggle using Python.
