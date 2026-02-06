@@ -11,7 +11,7 @@ Methods: The program first loads and reads uploaded CSV files. It then converts 
 ## 🛠️ Methods: 
 Data Processing: Loaded CSV files and converted timestamps to datetime objects.
 
-Proxy Calculation: Extracted the minimum daily heart rate as a proxy for resting HR.
+Proxy Calculation: Extracted the minimum daily heart rate for subjects as a proxy for resting HR.
 
 Aggregation: Values were averaged per user and merged with daily step counts via unique User IDs.
 
