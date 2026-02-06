@@ -15,11 +15,13 @@ Aggregation: Values were averaged per user and merged with daily step counts via
 
 Statistics: Calculated a Pearson correlation coefficient ($r$) to quantify the relationship.
 
+## 📉 Results: 
+The scatterplot shows a weak negative correlation (r = -0.23). 
 
-## 📉 Results:
-The scatterplot shows a weak negative correlation between average daily steps and resting heart rate, and it aligns with the resulting Pearson correlation coefficient of -0.23. 
-In general, people who take more steps per day tend to have slighly lower resting heart rates.
-However, there is a considerable amount of variability as well as outliers, suggesting that factors such as age or fitness level may influence resting heart rate.
+The Trend: In general, more daily steps correlates with a slightly lower resting heart rate.
+
+The Reality: High variability and outliers (like the 40 bpm data point) suggest that individual factors like age or baseline fitness play a massive role.
+
 
 ## ⚠️ Project Limitations:
 1. Small sample size - The analysis is only based on 14 individuals. While the analysis provides a snapshot, it is not a statistically significant representation of the general population. A larger dataset would help.
