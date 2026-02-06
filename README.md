@@ -20,17 +20,6 @@ Project Limitations:
 2. Lack of demographic context - Resting heart rate can be heavily influenced by variables not accounted for in this analysis such as age, medical conditions, current medications (e.g., beta-blockers), caffeine intake, sleep, etc.
 
 
-[!CAUTION] Small Sample Size: The analysis is based on only 14 individuals. This provides a snapshot but is not a statistically significant representation of the general population.
-
-[!NOTE] Missing Demographic Context: RHR is heavily influenced by variables not present in this dataset, such as:
-
-Age and Gender
-
-Medical conditions or medications (e.g., beta-blockers)
-
-Lifestyle factors (caffeine, sleep quality, stress levels)
-
-
 Libraries Used:
 
   1. Pandas for data manipulation and analysis
