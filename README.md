@@ -10,7 +10,7 @@ Methods: The program converts raw timestamps to datetime objects and extracts th
 
 
 Results:
-The scatterplot shows a weak negative correlation between average daily steps and resting heart rate. 
+The scatterplot shows a weak negative correlation between average daily steps and resting heart rate, and it aligns with the resulting Pearson correlation coefficient of -0.23. 
 In general, people who take more steps per day tend to have slighly lower resting heart rates.
 However, there is a considerable amount of variability as well as outliers, suggesting that factors such as age or fitness level may influence resting heart rate.
 
